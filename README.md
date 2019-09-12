@@ -1,6 +1,9 @@
 # Hotel-Management-System
 Hotel booking for guests
 
+-->Run the Hotel.java class file
+Description:-
+
 In this project, user can perform following operations:- 
 1. Add a Guest (Allow to add multiple guest in the database along with guest ID). 
 
