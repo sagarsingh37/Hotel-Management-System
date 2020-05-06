@@ -1,7 +1,6 @@
 # Hotel-Management-System
 Hotel booking for guests
 
-This is modified by SGR...
 
 -->Run the Hotel.java class file
 Description:-
